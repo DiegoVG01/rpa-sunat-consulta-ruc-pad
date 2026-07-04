@@ -1,0 +1,29 @@
+===== INICIO DEL PROCESO =====
+Fecha y hora de inicio: 2/07/2026 00:09:53
+Procesando RUC: 20100070970
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\20100070970_Ficha_RUC.pdf
+Procesando RUC: 20100128218
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\20100128218_Ficha_RUC.pdf
+Procesando RUC: 20131312955
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\20131312955_Ficha_RUC.pdf
+Procesando RUC: 20100017491
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\20100017491_Ficha_RUC.pdf
+Procesando RUC: 20331898008
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\20331898008_Ficha_RUC.pdf
+Procesando RUC: 20100049181
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\20100049181_Ficha_RUC.pdf
+Procesando RUC: 20291973851
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\20291973851_Ficha_RUC.pdf
+Procesando RUC: 20100190797
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\20100190797_Ficha_RUC.pdf
+Procesando RUC: 10738310930
+PDF generado correctamente: C:\Users\vgdie\Documents\RPA\SUNAT\PDFs\10738310930_Ficha_RUC.pdf
+Procesando RUC: 12345678901
+ERROR - RUC no encontrado o inválido: 12345678901
+===== RESUMEN DEL PROCESO =====
+Total procesados: 10
+Total exitosos: 9
+Total errores: 1
+
+===== FIN DEL PROCESO =====
+Fecha y hora de fin: 2/07/2026 00:12:18
